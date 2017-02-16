@@ -3,7 +3,15 @@ import java.awt.event.*;
 import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
-
+import java.awt.*;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;import java.awt.*;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;import java.awt.*;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;import java.awt.*;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
 public class Play extends JPanel implements KeyListener
 {
 	int i=0,j=0,velx=0,vely=0;
